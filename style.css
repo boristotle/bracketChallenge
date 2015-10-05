@@ -1,0 +1,25 @@
+
+.form {
+  float: left;
+  width: 40%;
+  margin: 4%;
+}
+
+.matchups {
+float: right;
+width: 40%;
+margin: 4%;
+
+}
+
+table, tr {
+  border: 1px solid;
+}
+
+div {
+  margin: 2%;
+}
+
+tr:nth-of-type(even) {
+  background-color: grey;
+}
